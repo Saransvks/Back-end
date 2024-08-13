@@ -1,0 +1,1 @@
+Backend: The Node.js backend handles user authentication, job listings, and job applications. It uses Express.js for creating APIs, Mongoose for database management, and JWT for secure authentication.
